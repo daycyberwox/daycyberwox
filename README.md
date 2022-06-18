@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Day Johnson</h1>
-<h3 align="center"><a href="https://www.linkedin.com/in/abisolajohnson/">Cloud Security Engineer</a> <a href="https://www.youtube.com/c/daycyberwox"> and Content Creator</a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/abisolajohnson/">Cloud Security Engineer</a> and <a href="https://www.youtube.com/c/daycyberwox"> Content Creator</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daycyberwox&label=Profile%20views&color=0e75b6&style=flat" alt="daycyberwox" /> </p>
 
