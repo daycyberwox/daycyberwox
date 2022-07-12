@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Day Johnson</h1>
-<h3 align="center"><a href="https://www.linkedin.com/in/abisolajohnson/">Cloud Security Engineer</a> and <a href="https://www.youtube.com/c/daycyberwox"> Content Creator</a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/abisolajohnson/">Cloud Threat Detection Engineer</a> and <a href="https://www.youtube.com/c/daycyberwox"> Content Creator</a></h3>
 
 <p align="left"> <a href="https://twitter.com/daycyberwox" target="blank"><img src="https://img.shields.io/twitter/follow/daycyberwox?logo=twitter&style=for-the-badge" alt="daycyberwox" /></a> </p>
 
