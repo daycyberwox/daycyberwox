@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/daycyberwox" target="blank"><img src="https://img.shields.io/twitter/follow/daycyberwox?logo=twitter&style=for-the-badge" alt="daycyberwox" /></a> </p>
 
+- 🤺 I currently work on [Cloud Detection Engineering](https://www.datadoghq.com/product/security-platform/cloud-siem/) at [Datadog](https://www.datadoghq.com/)
+
 - 🔭 I’m currently working on [Automation projects with python](https://github.com/daycyberwox/automatetheboringstuff)
 
 - 🐍 I’m currently learning **Python scripting & Cloud Security (Detection & Response) (AWS, Azure & GCP)**
