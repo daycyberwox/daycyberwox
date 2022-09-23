@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Automation projects with python](https://github.com/daycyberwox/automatetheboringstuff)
 
-- 🐍 I’m currently learning **Python & Cloud (AWS, Azure & GCP)**
+- 🐍 I’m currently learning **Python scripting & Cloud Security (Detection & Response) (AWS, Azure & GCP)**
 
 - 👯 I’m looking to collaborate on [Cybersecurity Projects](https://cyberwoxacademy.com/)
 
