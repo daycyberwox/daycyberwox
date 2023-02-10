@@ -5,7 +5,7 @@
 
 - 🤺 I currently work on [Cloud Detection Engineering](https://www.datadoghq.com/product/security-platform/cloud-siem/) at [Datadog](https://www.datadoghq.com/)
 
-- 🔭 I’m currently working on [Automation projects with python](https://github.com/daycyberwox/automatetheboringstuff)
+- 🔭 I’m currently working on Security Automation projects with python & terraform
 
 - 🐍 I’m currently learning **Python scripting & Cloud Detection & Response for AWS, Azure & GCP**
 
