@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋🏽, I'm Day Johnson</h1>
-<h3 align="center"><a href="https://www.linkedin.com/in/abisolajohnson/">Cloud Threat Detection Engineer</a> and <a href="https://www.youtube.com/c/daycyberwox"> Content Creator</a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/dayspringjohnson/">Security Response Engineer</a> and <a href="https://www.youtube.com/c/daycyberwox"> Content Creator</a></h3>
 
 <p align="left"> <a href="https://twitter.com/daycyberwox" target="blank"><img src="https://img.shields.io/twitter/follow/daycyberwox?logo=twitter&style=for-the-badge" alt="daycyberwox" /></a> </p>
 
-- 🤺 I currently work on [Cloud Detection Engineering](https://www.datadoghq.com/product/security-platform/cloud-siem/) at [Datadog](https://www.datadoghq.com/)
+- 🤺 I currently work on [Security Response Engineering](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLXNK37D6R3WGXKW) at [Amazon](https://www.amazon.com/)
 
-- 🔭 I’m currently working on Security Automation projects with python & terraform
+- 🔭 I’m currently working on Security Automation & Data Science projects with Python
 
-- 🐍 I’m currently learning **Python scripting & Cloud Detection & Response for AWS, Azure & GCP**
-
-- 👯 I’m looking to collaborate on [Cybersecurity Projects](https://cyberwoxacademy.com/)
+- 🐍 I’m currently learning **Python Scripting Security Response Engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/c/daycyberwox](https://www.youtube.com/c/daycyberwox)
 
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **day@cyberwoxacademy.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abisolajohnson/](https://www.linkedin.com/in/abisolajohnson/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dayspringjohnson/](https://www.linkedin.com/in/dayspringjohnson/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
