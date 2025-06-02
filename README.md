@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋🏽, I'm Day Johnson</h1>
-<h3 align="center"><a href="https://www.linkedin.com/in/dayspringjohnson/">Security Response Engineer</a> and <a href="https://www.youtube.com/c/daycyberwox"> Content Creator</a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/dayspringjohnson/">Security Engineer</a> and <a href="https://www.youtube.com/c/daycyberwox"> Content Creator</a></h3>
 
 <p align="left"> <a href="https://twitter.com/daycyberwox" target="blank"><img src="https://img.shields.io/twitter/follow/daycyberwox?logo=twitter&style=for-the-badge" alt="daycyberwox" /></a> </p>
 
-- 🤺 I currently work on [Security Response Engineering](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLXNK37D6R3WGXKW) at [Amazon](https://www.amazon.com/)
+- 🤺 I currently work on [Proactive Security Engineering](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLXNK37D6R3WGXKW) at [Amazon](https://www.amazon.com/)
 
 - 🔭 I’m currently working on Security Automation & Data Science projects with Python
 
-- 🐍 I’m currently learning **Python Scripting Security Response Engineering**
+- 🐍 I’m currently learning **AI Applications for Security Engineering & AI Security**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/c/daycyberwox](https://www.youtube.com/c/daycyberwox)
 
 - 📝 I regularly write articles on [https://www.daycyberwox.com](https://www.daycyberwox.com)
 
-- 💬 Ask me about **Cybersecurity & Cloud Security**
+- 💬 Ask me about **Christianity, Cybersecurity, Content Creation, Fitness or Productivity**
 
 - 📫 How to reach me **day@cyberwoxacademy.com**
 
