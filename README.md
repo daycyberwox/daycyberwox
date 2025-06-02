@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Christianity, Cybersecurity, Content Creation, Fitness or Productivity**
 
-- 📫 How to reach me **day@cyberwoxacademy.com**
+- 📫 How to reach me **day@cyberwox.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dayspringjohnson/](https://www.linkedin.com/in/dayspringjohnson/)
 
